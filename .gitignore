@@ -10,6 +10,8 @@ Makefile.in
 aclocal.m4
 compile
 !.travis/compile
+config.guess
+config.sub
 configure
 depcomp
 doc/libffi.info
